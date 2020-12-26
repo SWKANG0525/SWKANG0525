@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Kang%20Ho%20Dong&animation=fadeIn&fontSize=85)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swkang0525&label=Profile%20views&color=0e75b6&style=flat" alt="swkang0525" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=swkang0525&label=Profile%20views&color=0e75b6&style=flat" alt="swkang0525" /> </p>
 
 
 

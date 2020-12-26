@@ -7,6 +7,10 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=swkang0525&show_icons=true&locale=en" alt="swkang0525" />
 </p>
 
+## :computer: Latest Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## :facepunch: Introduce
 
 

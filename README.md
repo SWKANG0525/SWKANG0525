@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Kang Ho Dong&animation=fadeIn&fontSize=85)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=KangHoDong&animation=fadeIn&fontSize=85)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swkang0525&label=Profile%20views&color=0e75b6&style=flat" alt="swkang0525" /> </p>
 
@@ -32,7 +32,6 @@
 |      |      |          |              |
 |      |      |          |              |
 |      |      |          |              |
-
 
 
 

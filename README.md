@@ -35,14 +35,14 @@
 
 |           Type            |        Date        |                           Contents                           |                    Organization                    |
 | :-----------------------: | :----------------: | :----------------------------------------------------------: | :------------------------------------------------: |
-|         Education         | 2016. 3 ~ 2022 . 2 |         Department of Computer Software Engineering          |                 Dongeui University                 |
-|    External Activities    | 2019. 1 ~ 2019. 8  |  PROJECT : 카페 고객 관리, 매출관리 서비스 - MoCa(Backend)   |               [DnD](https://dnd.ac)                |
-|    External Activities    | 2019. 9 ~ 2020. 2  |  PROJECT : 번개보다 빠른 중고매칭 서비스 - 장마당 (Android)  |               [DnD](https://dnd.ac)                |
-| Research<br />Activities  | 2020. 3 ~ 2020. 5  | "화재 발생 원인에 대한 상관관계 분석" 연구과제 참여<br />- Python을 활용한 빅 데이터 전처리 및 시각화 |                     소방방재청                     |
+|         Education         | 2016. 3 ~ <br />2022 . 2 |         Department of Computer Software Engineering          |                 Dongeui University                 |
+|    External Activities    | 2019. 1 ~ <br />2019. 8  |  PROJECT : 카페 고객 관리, 매출관리 서비스 - MoCa(Backend)   |               [DnD](https://dnd.ac)                |
+|    External Activities    | 2019. 9 ~ <br />2020. 2  |  PROJECT : 번개보다 빠른 중고매칭 서비스 - 장마당 (Android)  |               [DnD](https://dnd.ac)                |
+| Research<br />Activities  | 2020. 3 ~ <br />2020. 5  | "화재 발생 원인에 대한 상관관계 분석" 연구과제 참여<br />- Python을 활용한 빅 데이터 전처리 및 시각화 |                     소방방재청                     |
 |         Education         |     2019. 4. 5     |                   자격 취득 : 리눅스마스터                   | [한국정보통신자격협회](https://www.icqa.or.kr/cn/) |
 |         Education         |     2019. 4. 9     |                  자격 취득 : 네트워크관리사                  |   [한국정보통신진흥협회](https://www.kait.or.kr)   |
 |         Education         |      2020. 5       |  PROJECT : 공항 여객기 탑승 체크인 관리 시스템(Full Stack)   |                 Dongeui University                 |
-|    Research Activities    |     2020. 5 ~      | GrandICT-4 세부 디지털트윈표준(ISO23247) 기반의 제조공정 최적화 기술개발 |        Univ LAB. <br />Software Engineering        |
+|    Research Activities    |     2020. 5 ~      | GrandICT-4 세부 디지털트윈표준(ISO23247) 기반의<br /> 제조공정 최적화 기술개발 |        Univ LAB. <br />Software Engineering        |
 |    External Activities    |      2020. 5       | 교내 인공지능 아이디어 경진대회 수상 - <br />비대면 평가 인공지능 관리 감독 솔루션 |                 Dongeui University                 |
 |    External Activities    |      2020. 5       | [PROJECT : React를 활용한 SPA Demo Portfolio Page](https://swkang0525.github.io/portfolio_react/) |                 Dongeui University                 |
 |    Research Activities    |      2020. 9       | 특허 출원 - <br />Multilateral Conference Verification Methods and Systems |        Univ LAB. <br />Software Engineering        |

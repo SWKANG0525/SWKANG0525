@@ -9,6 +9,9 @@
 
 ## :computer: Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [안드로이드 - 클레이 사격게임 구현 및 개선하기](https://velog.io/@rod0ng/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%ED%81%B4%EB%A0%88%EC%9D%B4-%EC%82%AC%EA%B2%A9%EA%B2%8C%EC%9E%84-%EA%B5%AC%ED%98%84-%EB%B0%8F-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0)
+- [시스템 프로그래밍 실습 2.  프로그래밍 환경, 디버깅 및 기본 함수](https://velog.io/@rod0ng/%EC%8B%A4%EC%8A%B5-2.-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%ED%99%98%EA%B2%BD-%EB%94%94%EB%B2%84%EA%B9%85-%EB%B0%8F-%EA%B8%B0%EB%B3%B8-%ED%95%A8%EC%88%98)
+- [시스템 프로그래밍 실습 1.  리눅스 설치, 명령어 사용 및 쉘 프로그래밍](https://velog.io/@rod0ng/%EC%8B%A4%EC%8A%B5-1.-%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%84%A4%EC%B9%98-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%82%AC%EC%9A%A9-%EB%B0%8F-%EC%89%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
 <!-- BLOG-POST-LIST:END -->
 
 ## :facepunch: Introduce

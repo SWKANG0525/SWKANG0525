@@ -21,7 +21,7 @@
 
 
 
-## :computer:Tech Stack
+## :computer: Tech Stack
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swkang0525&show_icons=true&locale=en&layout=compact" alt="swkang0525" /></p>
 

@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Kang Ho Dong</h1>
 <h3 align="center">A Student Developer in Republic of Korea</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=swkang0525&label=Profile%20views&color=0e75b6&style=flat" alt="swkang0525" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=swkang0525&label=Profile%20views&color=0e75b6&style=flat" alt="swkang0525" /> 
+</p>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=swkang0525&show_icons=true&locale=en" alt="swkang0525" />
 </p>

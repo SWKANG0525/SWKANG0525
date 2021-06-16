@@ -52,7 +52,7 @@
 |         Education         |      2020. 10      |      [PROJECT : POSIX 내장함수를 활용한 미니 쉘 제작하기](https://github.com/SWKANG0525/shell)      |                 Dongeui University                 |
 |    External Activities    |      2020. 11      |             교내 소프트웨어 테스팅 경진대회 수상             |                 Dongeui University                 |
 | External <br />Activities |      2020. 12      | [PROJECT : 당신을 위한 치아관리 서비스, TOS (Android, Node.JS)](https://github.com/SWKANG0525/tos_android) |                 Dongeui University                 |
-| External <br />Activities |      2020. 3 ~     | [PROJECT : 번개보다 빠른 전자제품 중고거래 서비스 Volt (Spring, MSA)](https://github.com/DEU-Volt/spring_backend) |                 Dongeui University                 |
+| External <br />Activities |      2021. 3 ~     | [PROJECT : 번개보다 빠른 전자제품 중고거래 서비스 Volt (Spring, MSA)](https://github.com/DEU-Volt/spring_backend) |                 Dongeui University                 |
 
 
 
